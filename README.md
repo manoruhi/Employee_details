@@ -4,6 +4,7 @@
 commands that you need to be used - 
 /venv/Scripts/activate
 
+
 It will help you to enter in a virtual environment
 
 ------------------------------ Change the directory to run the project -------------------------------------
